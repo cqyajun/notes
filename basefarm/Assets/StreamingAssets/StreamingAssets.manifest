@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 737061301
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: lua/lua_config.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: lua/lua_hotfix.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: lua/lua_util.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: lua/lua.unity3d
+      Dependencies: {}
